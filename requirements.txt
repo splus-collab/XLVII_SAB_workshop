@@ -1,5 +1,5 @@
 git+https://github.com/elacerda/s-cubes.git
-lsdb
+lsdb >= 0.5.0
 jupyterlab
 matplotlib
 splusdata
